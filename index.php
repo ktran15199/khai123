@@ -1,4 +1,6 @@
 <html>
+    <h1> Hello World</h1>
+    <body>
     <a href="DatabaseIndex.php" target="_blank" >Work with database</a>
      <br/> 
     <a href="ConnectToDB.php" target="_blank" >Connect database</a>
